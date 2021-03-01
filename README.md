@@ -8,5 +8,14 @@ A look at litter densities on western Europes largest natural lake. An explorati
 
 ![survey totals over time](/output/yearoneThroughFive/figure3.jpg)
 
+### Using the notebooks
 
+After cloning the repo you will need to run \<getdataforrepo\> and \<infrastrucuturerankings\>. The templates will pull all the data and preprocess it for you.
 
+#### Contributing
+
+Fork the repo and submit a pull request. We would love to hear from you.
+
+#### Contact
+
+analyst@hammerdirt.ch
